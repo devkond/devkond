@@ -13,7 +13,7 @@
   <img width="100%" height="20px" src="https://capsule-render.vercel.app/api?height=20&text=Statistics&fontSize=10&fontColor=ffd43b&type=rect&animation=twinkling&color=27303d" alt="statistics" />
         <br></br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devkond&show_icons=true&count_private=true&hide_border=true&title_color=3572a5&icon_color=3572a5&text_color=c9d1d9&bg_color=1f2733" alt="Kond github stats" /> 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkond&layout=compact&hide_border=true&title_color=ffd43b&text_color=ffd43b&bg_color=1f2733" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkond&layout=compact&hide_border=true&title_color=3572a5&text_color=c9d1d9&bg_color=1f2733" />
 </div>
     </td>
   </tr>
@@ -35,7 +35,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3572a5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 
-![GitHub followers](https://img.shields.io/github/followers/devkond)
+ﾠ![GitHub followers](https://img.shields.io/github/followers/devkond)
 
 </div>
 
