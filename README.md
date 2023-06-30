@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      <img width="100%" height="195px" src="https://capsule-render.vercel.app/api?height=120&stroke=30&type=rect&text=Hello!&fontAlign=41&fontSize=23&desc=%20I'm%20Kond.&descAlign=56&descAlignY=49&descSize=40&animation=twinkling&color=10:1f2733,100:27303d&fontColor=3572a5" alt="be welcome" />
+      <img width="100%" height="210px" src="https://capsule-render.vercel.app/api?height=120&stroke=30&type=rect&text=Hello!&fontAlign=41&fontSize=23&desc=%20I'm%20Kond.&descAlign=56&descAlignY=49&descSize=40&animation=twinkling&color=10:1f2733,100:27303d&fontColor=3572a5" alt="be welcome" />
     </td>
   </tr>
   <tr>
@@ -25,17 +25,17 @@
 
 <div align="center">
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤStudying in this moment
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤStudying in this moment
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 #
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤTools
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤTools
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3572a5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3572a5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![GitHub followers](https://img.shields.io/github/followers/devkond)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![GitHub followers](https://img.shields.io/github/followers/devkond)
 
 </div>
 
