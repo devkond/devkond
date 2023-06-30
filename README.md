@@ -25,17 +25,17 @@
 
 <div align="center">
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤStudying in this moment
+### ㅤㅤㅤㅤㅤㅤStudying in this moment
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 #
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤTools
+### ㅤㅤㅤㅤㅤㅤTools
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3572a5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+ㅤㅤㅤㅤㅤㅤㅤㅤ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3572a5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![GitHub followers](https://img.shields.io/github/followers/devkond)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![GitHub followers](https://img.shields.io/github/followers/devkond)
 
 </div>
 
