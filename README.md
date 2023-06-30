@@ -1,25 +1,44 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=header"/>
-<br></br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40:3572a5,100:ffd43b&height=135&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd43b&size=38&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Kond;I'm+15+years+old!;Im+from+Brazil!;I+study+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-#
-<p></p>
-<div align="center">  
+<table align="center">
+  <tr>
+    <td>
+      <img width="100%" height="195px" src="https://capsule-render.vercel.app/api?height=120&stroke=30&type=rect&text=Hello!&fontAlign=41&fontSize=23&desc=%20I'm%20Kond.&descAlign=56&descAlignY=49&descSize=40&animation=twinkling&color=10:1f2733,100:27303d&fontColor=3572a5" alt="be welcome" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">  
+        <br></br>
+  <img width="100%" height="20px" src="https://capsule-render.vercel.app/api?height=20&text=Statistics&fontSize=10&fontColor=ffd43b&type=rect&animation=twinkling&color=27303d" alt="statistics" />
+        <br></br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devkond&show_icons=true&count_private=true&hide_border=true&title_color=3572a5&icon_color=3572a5&text_color=c9d1d9&bg_color=1f2733" alt="Kond github stats" /> 
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkond&layout=compact&hide_border=true&title_color=ffd43b&text_color=ffd43b&bg_color=1f2733" />
 </div>
+    </td>
+  </tr>
+</table>
 
-### Studying in this moment:
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<br></br>
+
+  
+
+<div align="center">
+
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤStudying in this moment
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 #
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤTools
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3572a5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![GitHub followers](https://img.shields.io/github/followers/devkond)
+
+</div>
+
 
 <br></br>
-<br></br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd43b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:ffd43b,40:3572a5&height=135&section=footer"/>
